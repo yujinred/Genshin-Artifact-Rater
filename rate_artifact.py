@@ -25,7 +25,7 @@ max_mains = {'HP': 4780, 'ATK': 311.0, 'ATK%': 46.6, 'Energy Recharge%': 51.8, '
 			 'HP%': 46.6, 'DEF%': 58.3, 'Healing%': 35.9}
 max_subs = {'ATK': 19.0, 'Elemental Mastery': 23.0, 'Energy Recharge%': 6.5, 'ATK%': 5.8,
 			'CRIT Rate%': 3.9, 'CRIT DMG%': 7.8, 'DEF': 23.0, 'HP': 299.0, 'DEF%': 7.3, 'HP%': 5.8}
-weights = {'HP': 0, 'ATK': 0.5, 'ATK%': 1, 'Energy Recharge%': 0.5, 'Elemental Mastery': 0.5,
+weights = {'HP': 0, 'ATK': 0.25, 'ATK%': 1, 'Energy Recharge%': 0.5, 'Elemental Mastery': 0.5,
 		   'Physical DMG%': 1, 'CRIT Rate%': 1, 'CRIT DMG%': 1, 'Elemental DMG%': 1,
 		   'HP%': 0, 'DEF%': 0, 'DEF': 0, 'Healing%': 0}
 
